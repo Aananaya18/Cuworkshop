@@ -1,0 +1,34 @@
+.heading{
+    border-style: double;
+    border-width: "10%";
+    border-color:brown;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    font-family:Arial;
+    font-style: italic;
+    text-emphasis-color: brown;
+}
+.para{
+    border-style:double;
+    border-color: blue;
+}
+hr{
+    border: none;
+    height: 5px;
+    color:brown;
+    background-color: #858585;
+}
+figcaption
+{
+    font-family:"Gothic Medium";
+    font-style:italic;
+    font-size: 20px;
+    font-weight: bold;
+    color: chocolate;
+    border-style: double;
+}
+.caption
+{
+    text-align: right;
+}
